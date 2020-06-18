@@ -1,1 +1,2 @@
 Use of foor and while loops
+Intro to bugs and debugging
