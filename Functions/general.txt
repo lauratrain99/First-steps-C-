@@ -1,0 +1,3 @@
+built-in functions, calling a function, declaration and definition,
+void functions, parameters and arguments, header files, inline defintions,
+default arguments, overloading, templates
