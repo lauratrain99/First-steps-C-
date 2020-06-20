@@ -1,0 +1,1 @@
+This project allows to determine if a codeword is correct or not
