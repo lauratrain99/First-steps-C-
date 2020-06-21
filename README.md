@@ -1,2 +1,2 @@
 # First-steps-C++-
-Basics learned during C++ course on Codacademy
+Basics learned during C++ course on Codecademy
